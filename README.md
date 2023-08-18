@@ -386,16 +386,11 @@ Mi flue parolas esperanton kaj ofte programas por ĝia komunumo!
 
 ## Roadmap
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6496a703d99c9d673191e3b0?variant=dark&roadmaps=javascript)](https://roadmap.sh)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6496a703d99c9d673191e3b0?variant=dark&roadmaps=javascript%2Cbackend%2Cpython%2Cfrontend)](https://roadmap.sh)
 
 <div align="center">
   <img src="https://api.roadmap.sh/v1-badge/wide/6496a703d99c9d673191e3b0?variant=dark&roadmaps=javascript%2Cbackend%2Cpython%2Cfrontend" alt="roadmap.sh" />
-</div>
-
-<div align="center">
-  <img src="https://api.roadmap.sh/v1-badge/wide/6486cda670a3a3d0f097bab6?variant=dark&roadmaps=typescript%2Cpython%2Cbackend%2Cfrontend" alt="roadmap.sh" />
 </div>
 
 ---
