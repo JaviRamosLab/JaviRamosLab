@@ -3,9 +3,46 @@ Javier Ramos Nistal (@JaviRamosLab)
 
 ## About my
 
-Designer | FullStack Developer (junior) | Marketer | Translator | Wikipedian
+**Designer | FullStack Developer (junior) | Marketer | Translator | Wikipedian**
 
-I am wikipedia admin, translator and vicpresident of Wikimedia Esperanto. Developer for ILERA (Han Radio Organization), Cuba Esperanto-Asociaction and opens source contributor. I love work with API´s, users stats, grafics, interactions, . I also have experience with wikis, blogs, docs, i18N, selfhosted tecnologies...
+I am wikipedia admin, translator and vicpresident of Wikimedia Esperanto. Developer for ILERA (Han Radio Organization), Cuba Esperanto-Asociaction and opens source contributor. I love work with API´s, users stats, grafics, interactions. I also have experience with wikis, blogs, docs, AdminLTE, API, AJAX, CRUD, Fetch, oAuth, Tokens, JWT, MVC, POO, Progressive Web Apps (PWA), Single Page Application (SPA), DataBases, Countdown + clocks, Hosting + servers + VPS, Performance, Telegram Bots, Cloud computing, Data Analytics, Domain naming, SEO, Marketing Tools, Social Media, QR Codes, Google Analytics, Documentation, e-commerce (Shopify, WooCommerce), SSL Certificates, Working with Files, 
+
+**JS libreries** - Axios, jQuery, Chart.JS, Confetti.JS, D3.js, moment.js, Anime.js, animate.js, bootstrap, fontawesome, Google-Charts, prism.js, sweetalert.js, reveal.js
+
+JSON, XML, Marckdown, XPATH, RegEx,
+
+**CMS** (wordpress), Headless CMS (Strapi), 
+
+**LMS** - E-learning tecnologies - moodle, chamilo, H5P, JClic, Educaplay, Quizizz, QUIZLET, Flashcards, [xAPI / SCROM]..., dark mode, images (SVG, GIF,...), selfhosted tecnologies...
+
+**Internationalization and Localization** - i18N, Translation Management Systems (TMS), Localization Management Plataform (LMP)
+
+**Web design** - UI + UX, responsive design, Flexbox, Grid, Figma, Sketch, - Accordion, testimonials, sliders, profile cards, Tabs, Progress Bars, Automating Web Graphics, Interaction, animations, Visual Optimization, Data Visualization, Preloaders, Animated Banner Ad, 
+
+**Design** - SVG, GIF, ICO... + .PSD, .AI, .INDD, + .EPUB, Brochures, books, flayers, logos, ...
+
+**Wordpress** - Advanced Custom Fields (ACF), Custom Post Types and Taxonomies, Hooks, shortcodes, WooCommerce, themes, plugins..
+
+**Productivity and Time management** - Notion, Obsidian, Asana,... - Getting Things Done (GTD), 80/20 Rule, pomodoro, time bloking, 
+
+**Automation** - Make, Zapier, Integromat...
+
+**Webscraping** - Scrapy, BeautifulSoup, Puppeteer, Selenium, + crawling, Spiders
+
+**Amazon Web Services (AWS)** - S2, S3, Lambda,...
+
+**e-mail marketing** - mailchimp, + Campaigns, templates, CTA, metrics, CTR, leads, KPI, A/B testing,...
+
+**Marketing** - Branding, e-mail marketing, Google Ads, facebook ads, CRM
+
+**Data Visualization** - charts, tables, maps, histograms, infographics, timeline,
+
+**Translate** - crowdin, weblate, translationproject.org, poeditor.com, transifex.com, translate.wordpress.org, translate.working.name,...
+
+## API's
+Google API's - Sheets, youtube, Calendar, Drive, Maps, Forms, Docs, Slides, Keep, Classroom, Gmail
+
+Telegram, wikipedia/wikimedia/XTools, notion, lichess, Crowdin, OpenProject, 
 
 🟩💚 Mi flue parolas esperanton kaj ofte programas por ĝia komunumo!
 
