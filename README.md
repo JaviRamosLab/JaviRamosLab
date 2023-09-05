@@ -3,16 +3,13 @@ Javier Ramos Nistal (@JaviRamosLab)
 
 ## About my
 
-Designer | FullStack Developer | Marketer | Translator | Wikipedian
+Designer | FullStack Developer (junior) | Marketer | Translator | Wikipedian
 
-Me gusta programar y crear contenido en mi tiempo libre, tengo varios proyectos con guías y apuntes propios.
+I am wikipedia admin, translator and vicpresident of Wikimedia Esperanto. Developer for ILERA (Han Radio Organization), Cuba Esperanto-Asociaction and opens source contributor. I love work with API´s, users stats, grafics, interactions, . I also have experience with wikis, blogs, docs, i18N, selfhosted tecnologies...
 
-Mi flue parolas esperanton kaj ofte programas por ĝia komunumo!
+🟩💚 Mi flue parolas esperanton kaj ofte programas por ĝia komunumo!
 
-**Tecnologías**: API (Fetch), 
-
-**Librerias**: CanvasConfetti
-
+## Programing tecnologies
 
 ### Languages
 
