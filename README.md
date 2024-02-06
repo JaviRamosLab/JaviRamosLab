@@ -37,7 +37,7 @@ JSON, XML, Marckdown, XPATH, RegEx,
 
 **Data Visualization** - charts, tables, maps, histograms, infographics, timeline,
 
-**Translate** - crowdin, weblate, translationproject.org, poeditor.com, transifex.com, translate.wordpress.org, translate.working.name,...
+**Translate** - crowdin, weblate, translationproject.org, poeditor.com, transifex.com, translate.wordpress.org, translate.working.name, opensubtitles.org (.srt, .sub...)...__**formats** [.po .xml .xlif .xlim .lng .lang .txt .json .yml .csv .yml...]
 
 ## API's
 Google API's - Sheets, youtube, Calendar, Drive, Maps, Forms, Docs, Slides, Keep, Classroom, Gmail
@@ -462,7 +462,7 @@ Telegram, wikipedia/wikimedia/XTools, notion, lichess, Crowdin, OpenProject,
 <!-- Footer -->
 <samp>
     <p align="center">
-        ════ ⋆★⋆ ════
+        ════════════ ⋆★⋆ ════════════
         <br>
         "Happy Coding👨💻"
     </p>
@@ -470,7 +470,7 @@ Telegram, wikipedia/wikimedia/XTools, notion, lichess, Crowdin, OpenProject,
 
 ### Show some ❤️ by starring some of the repositories!
 
-### Created with ❤️ in Havana, Cuba by @JaviRamosLab
+### Created with ❤️ in 🇨🇺 Cuba by @JaviRamosLab
 
 
 <p align="center">Visitors Count<br>
