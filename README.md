@@ -419,6 +419,8 @@ _lerning_
 
 ## 📈 My Stats
 
+[![My user statistics](images/userstats.svg)](https://github.com/JaviRamosLab)
+
 <div align="center">
     <!-- Contribution Heatmap with Snake Animation -->
     <img src="https://github.com/javiramoslab/javiramoslab/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
