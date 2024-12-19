@@ -3,12 +3,82 @@
 *.ori
 *.orig
 *.tmp
+*.env
+*.bat
+README.txt
+README.docx
+README.xlsx
+scrypt-*[.sh|.bat]
+
+
+# Reference and inspirationals files/directories
+# __ref__* // para repositorios de ejemplo
+# ---ref---* // para archivo o carpeta con contenido de diferentes fuentes sobre un mismo tema
+!!+++++ */
+!+++++ */
+@+++++ */
++++++ */
+
+# Reference files
+---ref---*
+/*/---ref---*
+*---ref---
+/*/*---ref---
+__ref__*
+*__ref__
+/*__ref__
+/*/*__ref__
+/*/*/*__ref__
+*-----
+/*/*-----
+/*/*/*-----
 
 Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
+Syncfolders_Database_db
 
 [Dd]esktop.ini
 *.lnk
 
+----------/
+/node_modules
+bootstrap/
+fontawesome/
+# /dist/
+# /data/
+# /src/
+
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# environment variable files
+/build
+/.env
+.env
+.env.development
+.env.test
+.env.production
+.env.local
+
+# misc
+.DS_Store
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# vuepress build output
+.vuepress/dist
+# vuepress v2.x temp and cache directory
+.vuepress/.temp
+.vuepress/.cache
+# vitepress build and cache directory
+.vitepress/cache
+.vitepress/dist

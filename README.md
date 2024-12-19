@@ -460,17 +460,6 @@ _lerning_
 
 ## 🚀Github Metrics
 
-<!--
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiramoslab&amp;theme=radical&amp;layout=compact&amp;langs_count=10" alt="Javier Ramos github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiramoslab&amp;theme=radical&amp;layout=compact&amp;langs_count=10" style="width:100%; max-width: 400px;">
-</p> -->
-
-<!-- <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=javiramoslab&theme=onedark&column=-1" style="width:100%;" alt="raupulus" />
-</p> -->
-
-<!-- <img src="https://github-readme-stats-sahr.vercel.app/api?username=javiramoslab&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
-
 <img src="https://github-readme-stats-sahr.vercel.app/api/top-langs?username=javiramoslab&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ## 📈 My Streak Stats:
@@ -500,8 +489,6 @@ _lerning_
 </p>
 
 ### Show some ❤️ by starring some of the repositories!
-
-### Created with ❤️ in 🇨🇺 Cuba by @JaviRamosLab
 
 ### Created with ❤️ in 🇨🇺 Cuba by @JaviRamosLab
 
