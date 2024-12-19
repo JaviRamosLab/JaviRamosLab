@@ -1,11 +1,9 @@
 # Javier Ramos Nistal (@JaviRamosLab)
 
-
 ![followers](https://custom-icon-badges.demolab.com/github/followers/OperationCaribbeanSummer?logo=person-add&style=social&logoColor=black)
 ![stars](https://custom-icon-badges.demolab.com/github/stars/OperationCaribbeanSummer/.github?logo=star&style=social&logoColor=black)
 ![fork](https://custom-icon-badges.demolab.com/github/forks/OperationCaribbeanSummer/.github?logo=fork&style=social&logoColor=black)
 ![watch](https://custom-icon-badges.demolab.com/github/watchers/OperationCaribbeanSummer/.github?logo=eye&style=social&logoColor=black)
-
 
 [![All repos](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?&style=flat&logoColor=white&logo=repo)](https://github.com/orgs/OperationCaribbeanSummer/repositories)
 ![phone](https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?&style=flat&logo=phone&logoColor=white)
@@ -483,6 +481,7 @@ _lerning_
 <samp>
     <p align="center">
         ════════════ ⋆★⋆ ════════════
+        ════════════ ⋆★⋆ ════════════
         <br>
         "Happy Coding👨💻"
     </p>
@@ -501,6 +500,8 @@ _lerning_
 </p>
 
 ### Show some ❤️ by starring some of the repositories!
+
+### Created with ❤️ in 🇨🇺 Cuba by @JaviRamosLab
 
 ### Created with ❤️ in 🇨🇺 Cuba by @JaviRamosLab
 
