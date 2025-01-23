@@ -18,12 +18,11 @@ I am wikipedia admin, translator and vicpresident of Wikimedia Esperanto. Develo
 
 ---
 
-### Prefered stack - (MERN)
+### Prefered stack - (MEVN)
 
-<img src="images/MongoDB.svg" alt="MongoDB" style="width:100%; max-width: 50px;">
-<img src="images/ExpressJS-Dark.svg" alt="ExpressJS" style="width:100%; max-width: 50px;">
-<img src="images/React-Dark.svg" alt="React" style="width:100%; max-width: 50px;">
-<img src="images/NodeJS-Dark.svg" alt="NodeJS" style="width:100%; max-width: 50px;">
+![MERN stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)
+
+![MEVN stack](https://skillicons.dev/icons?i=mongodb,express,vue,nodejs&theme=light)
 
 <img src="images/HTML.svg" alt="HTML" style="width:100%; max-width: 50px;">
 <img src="images/CSS.svg" alt="CSS" style="width:100%; max-width: 50px;">
@@ -413,7 +412,7 @@ _lerning_
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=javiramoslab&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
+![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=javiramoslab&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
 
 ---
 
@@ -440,6 +439,10 @@ _lerning_
         <img src="https://github-readme-streak-stats.herokuapp.com?user=javiramoslab&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
     </a>
 </div>
+
+---
+
+![repo stats repobeats.axiom](https://repobeats.axiom.co/api/embed/baaab35673454912bd5a3fa91a2548b7612f42f0.svg "Repobeats analytics image")
 
 ---
 
