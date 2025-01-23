@@ -5,16 +5,18 @@
 ![fork](https://custom-icon-badges.demolab.com/github/forks/OperationCaribbeanSummer/.github?logo=fork&style=social&logoColor=black)
 ![watch](https://custom-icon-badges.demolab.com/github/watchers/OperationCaribbeanSummer/.github?logo=eye&style=social&logoColor=black)
 
-[![All repos](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?&style=flat&logoColor=white&logo=repo)](https://github.com/orgs/OperationCaribbeanSummer/repositories)
-![phone](https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?&style=flat&logo=phone&logoColor=white)
-![email](https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?&style=flat&logo=mention&logoColor=white)
+[![All repos](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?&style=flat&logoColor=white&logo=repo)](https://github.com/JaviRamosLab/repositories)
+![phone](https://custom-icon-badges.demolab.com/badge/-+53--5843--9494-orange?&style=flat&logo=phone&logoColor=white)
+![email](https://custom-icon-badges.demolab.com/badge/-co2mm.esperanto@gmail.com-red?&style=flat&logo=mention&logoColor=white)
 ![location](https://custom-icon-badges.demolab.com/badge/Havana-Cuba-purple?&style=flat&logo=location&logoColor=white)
 
 ## About my
 
 **Designer | FullStack Developer (junior) | Marketer | Translator | Wikipedian**
 
-I am wikipedia admin, translator and vicpresident of Wikimedia Esperanto. Developer for ILERA (Han Radio Organization), Cuba Esperanto-Asociaction and opens source contributor. I love work with API´s, users stats, grafics,maps, databases and interactions. I also have experience with wikis, blogs, docs, AdminLTE, API, AJAX, CRUD, Fetch, oAuth, Tokens, JWT, MVC, POO, Progressive Web Apps (PWA), Single Page Application (SPA), DataBases, Countdown + clocks, Hosting + servers + VPS, Performance, Telegram Bots, Data Analytics, Domain naming, SEO, Marketing Tools, Social Media, QR Codes, Google Analytics, Documentation, e-commerce (Shopify, WooCommerce), Working with Files and more.
+I am wikipedia admin, translator and vicpresident of Wikimedia Esperanto. Developer for ILERA (Ham Radio Organization), Cuba Esperanto-Asociaction and open source contributor. I love work with API´s, users stats, graphics, maps, databases and interactions. I also have experience with wikis, blogs, documentation, AdminLTE, API, AJAX, CRUD, Fetching, acraping, crawling, oAuth, Tokens, JWT, architecture MVC, POO, Progressive Web Apps (PWA), Single Page Application (SPA), DataBases and schemas (SQL and NoSQL), Countdown + clocks, Hosting + servers + VPS, Performance, Accessibility, UX/UI, Telegram Bots, Data Analytics/Data Science, Google Analytics, metrics, KPI, Domain naming, SEO/SEM, Marketing Tools, Social Media, QR Codes, e-commerce (Shopify/WooCommerce), Working with Files and more...
+
+I love lern and experiment!
 
 ---
 
@@ -24,18 +26,9 @@ I am wikipedia admin, translator and vicpresident of Wikimedia Esperanto. Develo
 
 ![MEVN stack](https://skillicons.dev/icons?i=mongodb,express,vue,nodejs&theme=light)
 
-<img src="images/HTML.svg" alt="HTML" style="width:100%; max-width: 50px;">
-<img src="images/CSS.svg" alt="CSS" style="width:100%; max-width: 50px;">
-<img src="images/JavaScript.svg" alt="JavaScript" style="width:100%; max-width: 50px;">
-<img src="images/Bootstrap.svg" alt="Bootstrap" style="width:100%; max-width: 50px;">
-<img src="images/Wordpress.svg" alt="Wordpress" style="width:100%; max-width: 50px;">
-<img src="images/Git.svg" alt="Git" style="width:100%; max-width: 50px;">
-<img src="images/Python-Dark.svg" alt="Python-Dark" style="width:100%; max-width: 50px;">
+<img src="images/HTML.svg" alt="HTML" style="width: 50px"><img src="images/CSS.svg" alt="CSS" style="width: 50px"><img src="images/JavaScript.svg" alt="JavaScript" style="width: 50px"><img src="images/Bootstrap.svg" alt="Bootstrap" style="width: 50px"><img src="images/Wordpress.svg" alt="Wordpress" style="width: 50px"><img src="images/Git.svg" alt="Git" style="width: 50px"><img src="images/Python-Dark.svg" alt="Python-Dark" style="width: 50px">
 
-<img src="images/Photoshop.svg" alt="Photoshop" style="width:100%; max-width: 50px;">
-<img src="images/Illustrator.svg" alt="Illustrator" style="width:100%; max-width: 50px;">
-<img src="images/Audition.svg" alt="Audition.svg" style="width:100%; max-width: 50px;">
-<img src="images/Figma-Dark.svg" alt="Figma" style="width:100%; max-width: 50px;">
+<img src="images/Photoshop.svg" alt="Photoshop" style="width: 50px"><img src="images/Illustrator.svg" alt="Illustrator" style="width: 50px"><img src="images/Audition.svg" alt="Audition.svg" style="width: 50px"><img src="images/Figma-Dark.svg" alt="Figma" style="width: 50px">
 
 ---
 
@@ -442,7 +435,7 @@ _lerning_
 
 ---
 
-![repo stats repobeats.axiom](https://repobeats.axiom.co/api/embed/baaab35673454912bd5a3fa91a2548b7612f42f0.svg "Repobeats analytics image")
+![repo stats repobeats.axiom](https://repobeats.axiom.co/api/embed/baaab35673454912bd5a3fa91a2548b7612f42f0.svg 'Repobeats analytics image')
 
 ---
 
