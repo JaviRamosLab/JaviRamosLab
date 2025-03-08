@@ -1,9 +1,9 @@
 # Javier Ramos Nistal (@JaviRamosLab)
 
-![followers](https://custom-icon-badges.demolab.com/github/followers/OperationCaribbeanSummer?logo=person-add&style=social&logoColor=black)
-![stars](https://custom-icon-badges.demolab.com/github/stars/OperationCaribbeanSummer/.github?logo=star&style=social&logoColor=black)
-![fork](https://custom-icon-badges.demolab.com/github/forks/OperationCaribbeanSummer/.github?logo=fork&style=social&logoColor=black)
-![watch](https://custom-icon-badges.demolab.com/github/watchers/OperationCaribbeanSummer/.github?logo=eye&style=social&logoColor=black)
+![followers](https://custom-icon-badges.demolab.com/github/followers/JaviRamosLab?logo=person-add&style=social&logoColor=black)
+![stars](https://custom-icon-badges.demolab.com/github/stars/JaviRamosLab?logo=star&style=social&logoColor=black)
+![fork](https://custom-icon-badges.demolab.com/github/forks/JaviRamosLab?logo=fork&style=social&logoColor=black)
+![watch](https://custom-icon-badges.demolab.com/github/watchers/JaviRamosLab?logo=eye&style=social&logoColor=black)
 
 [![All repos](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?&style=flat&logoColor=white&logo=repo)](https://github.com/JaviRamosLab/repositories)
 ![phone](https://custom-icon-badges.demolab.com/badge/-+53--5843--9494-orange?&style=flat&logo=phone&logoColor=white)
@@ -14,41 +14,65 @@
 
 **Designer | FullStack Developer (junior) | Marketer | Translator | Wikipedian**
 
-I am wikipedia admin, translator and vicpresident of Wikimedia Esperanto. Developer for ILERA (Ham Radio Organization), Cuba Esperanto-Asociaction and open source contributor. I love work with API´s, users stats, graphics, maps, databases and interactions. I also have experience with wikis, blogs, documentation, AdminLTE, API, AJAX, CRUD, Fetching, acraping, crawling, oAuth, Tokens, JWT, architecture MVC, POO, Progressive Web Apps (PWA), Single Page Application (SPA), DataBases and schemas (SQL and NoSQL), Countdown + clocks, Hosting + servers + VPS, Performance, Accessibility, UX/UI, Telegram Bots, Data Analytics/Data Science, Google Analytics, metrics, KPI, Domain naming, SEO/SEM, Marketing Tools, Social Media, QR Codes, e-commerce (Shopify/WooCommerce), Working with Files and more...
+I am wikipedia admin, translator (esperanto), designer (web/graphic/editorial), web editor/administrator, developer (backend/frontend) and vicpresident of Wikimedia Esperanto. Developer for ILERA (Ham Radio Organization), Cuba Esperanto-Association and open source contributor. I love work with APIs, users stats, graphics, maps, databases and interactions. I also have experience with wikis, blogs, documentation, AdminLTE, API, AJAX, CRUD, Fetching, scraping, crawling, oAuth, Tokens, JWT, architecture MVC, POO, Progressive Web Apps (PWA), Single Page Application (SPA), DataBases and schemas (SQL and NoSQL), Countdown + clocks, Hosting + servers + VPS, Performance, Accessibility, UX/UI, Telegram Bots, Data Analytics/Data Science, Google Analytics, metrics, KPI, Domain naming, SEO/SEM, Marketing Tools, Social Media, QR Codes, e-commerce (Shopify/WooCommerce), productivity, time management, Working with Files and more...
 
-I love lern and experiment!
+**I love learn and experiment!**
 
 ---
 
 ### Prefered stack - (MEVN)
 
-![MERN stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)
-
 ![MEVN stack](https://skillicons.dev/icons?i=mongodb,express,vue,nodejs&theme=light)
+
+![MERN stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)
 
 <img src="images/HTML.svg" alt="HTML" style="width: 50px"><img src="images/CSS.svg" alt="CSS" style="width: 50px"><img src="images/JavaScript.svg" alt="JavaScript" style="width: 50px"><img src="images/Bootstrap.svg" alt="Bootstrap" style="width: 50px"><img src="images/Wordpress.svg" alt="Wordpress" style="width: 50px"><img src="images/Git.svg" alt="Git" style="width: 50px"><img src="images/Python-Dark.svg" alt="Python-Dark" style="width: 50px">
 
 <img src="images/Photoshop.svg" alt="Photoshop" style="width: 50px"><img src="images/Illustrator.svg" alt="Illustrator" style="width: 50px"><img src="images/Audition.svg" alt="Audition.svg" style="width: 50px"><img src="images/Figma-Dark.svg" alt="Figma" style="width: 50px">
 
+### Vue ecosystem lover
+
+**Vue 3** - SPA (Single Page Aplication)
+**Nuxt 3** - SSR/SWA (Server Side Rendering/Static Web Aplications)
+**style** - CSS, SASS, tailwind, PrimeVue, bootstrap, vuetify, materialize, bulma,...
+**Pinia\*\***
+**vue-router**
+**vue-use**
+**Vitest**
+**VitePress** and **VuePress**
+**Quasar** and **Ionic/vue**
+
 ---
 
-**JS libreries** - Axios, jQuery, Chart.JS, Confetti.JS, D3.js, moment.js, Anime.js, animate.js, bootstrap, fontawesome, Google-Charts, prism.js, sweetalert.js, reveal.js...
+**JS libraries** - Axios, jQuery, Chart.JS, Confetti.JS, D3.js, moment.js, Anime.js, animate.js, bootstrap, fontawesome, Google-Charts, prism.js, sweetalert.js, reveal.js...
 
-JSON, XML, Marckdown, XPATH, RegEx,
+JSON, XML, Markdown, WikiText, XPATH, RegEx.
 
-**CMS** wordpress, , Headless CMS (Strapi),
+**CMS** - WordPress, Drupal, Joomla,...
 
-**LMS** - E-learning tecnologies - moodle, chamilo, H5P, JClic, Educaplay, Quizizz, QUIZLET, Flashcards, [xAPI / SCROM]..., dark mode, images (SVG, GIF,...), selfhosted tecnologies...
+**Headless CMS** - Strapi, Ghost, Reaction, TinaCMS,...
 
-**Internationalization and Localization** - i18N, Translation Management Systems (TMS), Localization Management Plataform (LMP)
+**LMS** - E-learning tecnologies - moodle, chamilo, H5P, JClic, Educaplay, Quizizz, QUIZLET, Flashcards, [xAPI / SCROM].
 
-**Web design** - UI + UX, responsive design, Flexbox, Grid, Figma, Sketch, - Accordion, testimonials, sliders, profile cards, Tabs, Progress Bars, Automating Web Graphics, Interaction, animations, Visual Optimization, Data Visualization, Preloaders, Animated Banner Ads,
+**E-commerce CMS** - Shopify, WooCommerce,
+
+**Fediverse** - (_currently learning_) ActivityPub, Mastodon, PeerTube, Diaspora.
+
+**wiki-systems** - MediaWiki, DocuWiki, GitHub-wiki,...
+
+**Testing** - Jest, supertest, vitest, Cypress, mocha, chai, + codecov, coveralls. _learning_: k6, istanbul.
+
+**Documentation** - VitePress, VuePress, Swagger, Bruno, ReadTheDocs.
+
+**Internationalization and Localization** - i18N, vue-i18n, nuxtjs/i18n, i18next + Translation Management Systems (TMS), Localization Management Platforms (LMP)
+
+**Web design** - UI + UX, responsive design, Flexbox, Grid, Figma, Sketch, - Accordion, testimonials, sliders, profile cards, Tabs, Progress Bars, Automating Web Graphics, Interaction, animations, Visual Optimization, Data Visualization, Preloader, Animated Banner Ads,
 
 **Design** - SVG, GIF, ICO... + .PSD, .AI, .INDD, + .EPUB, Brochures, books, flayers, logos, ...
 
 **Wordpress** - Advanced Custom Fields (ACF), Custom Post Types and Taxonomies, Hooks, shortcodes, WooCommerce, themes, plugins..
 
-**Productivity and Time management** - Notion, Obsidian, Asana,... + Getting Things Done (GTD), 80/20 Rule (Pareto Analysis), pomodoro, time bloking, eat that frog, Eisenhower Matrix,...
+**Productivity and Time management** - Notion, Obsidian, Asana,... + Getting Things Done (GTD), 80/20 Rule (Pareto Analysis), pomodoro, time blocking, eat that frog, Eisenhower Matrix,...
 
 **Automation** - Make, Zapier, Integromat, python for automation (basic), bash (basic).
 
@@ -60,11 +84,11 @@ JSON, XML, Marckdown, XPATH, RegEx,
 
 **Marketing** - Branding, e-mail marketing, CRM, Social Media Marketing, Google Ads (basic), facebook ads (basic),
 
-**Data Visualization** - charts, tables, maps, histograms, infographics, timeline, interactivity, UI/UX,
+**Data Visualization** - charts, tables, maps, histograms, infographic, timeline, interactivity, UI/UX,
 
 **Translation** - crowdin, weblate, translationproject.org, poeditor.com, transifex.com, translate.wordpress.org, translate.working.name, opensubtitles.org (.srt, .sub...)...\_\_**formats** [.po .xml .xlif .xlim .lng .lang .txt .json .yml .csv .yml...]
 
-**Databases** - MongoDB (NoSQL), MySQL, SQlite...
+**Databases** - MongoDB (NoSQL), MySQL, SQlite, PostgreSQL,...
 
 ## API's
 
@@ -253,7 +277,7 @@ _web design/graphic design_
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=fff&style=flat)
 ![JPEG](https://img.shields.io/badge/JPEG-8A8A8A?logo=jpeg&logoColor=fff&style=flat)
 
-### Database
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=flat)
@@ -320,7 +344,7 @@ _lerning_
 ![Subtitle Edit](https://img.shields.io/badge/Subtitle%20Edit-CC2424?logo=subtitleedit&logoColor=fff&style=flat)
 ![Grammarly](https://img.shields.io/badge/Grammarly-15C39A?logo=grammarly&logoColor=fff&style=flat)
 
-### Blog
+### Bloging
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white&style=flat)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white&style=flat)
