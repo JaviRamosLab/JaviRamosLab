@@ -1,9 +1,7 @@
-# Javier Ramos Nistal (@JaviRamosLab)
+﻿# Javier Ramos Nistal (@JaviRamosLab)
 
 ![followers](https://custom-icon-badges.demolab.com/github/followers/JaviRamosLab?logo=person-add&style=social&logoColor=black)
 ![stars](https://custom-icon-badges.demolab.com/github/stars/JaviRamosLab?logo=star&style=social&logoColor=black)
-![fork](https://custom-icon-badges.demolab.com/github/forks/JaviRamosLab?logo=fork&style=social&logoColor=black)
-![watch](https://custom-icon-badges.demolab.com/github/watchers/JaviRamosLab?logo=eye&style=social&logoColor=black)
 
 [![All repos](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?&style=flat&logoColor=white&logo=repo)](https://github.com/JaviRamosLab/repositories)
 ![phone](https://custom-icon-badges.demolab.com/badge/-+53--5843--9494-orange?&style=flat&logo=phone&logoColor=white)
@@ -20,49 +18,144 @@ I am wikipedia admin, translator (esperanto), designer (web/graphic/editorial), 
 
 ---
 
-### Prefered stack - (MEVN)
+## Tech Stack
+
+### Preferred stack - (MEVN)
 
 ![MEVN stack](https://skillicons.dev/icons?i=mongodb,express,vue,nodejs&theme=light)
 
 ![MERN stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)
 
-<img src="images/HTML.svg" alt="HTML" style="width: 50px"><img src="images/CSS.svg" alt="CSS" style="width: 50px"><img src="images/JavaScript.svg" alt="JavaScript" style="width: 50px"><img src="images/Bootstrap.svg" alt="Bootstrap" style="width: 50px"><img src="images/Wordpress.svg" alt="Wordpress" style="width: 50px"><img src="images/Git.svg" alt="Git" style="width: 50px"><img src="images/Python-Dark.svg" alt="Python-Dark" style="width: 50px">
+<img src="logos/HTML5.svg" alt="HTML" style="width: 50px">
+<img src="logos/CSS.svg" alt="CSS" style="width: 50px">
+<img src="logos/JavaScript.svg" alt="JavaScript" style="width: 50px">
+<img src="logos/nodejs.svg" alt="nodejs" style="width: 50px">
+<img src="logos/Bootstrap.svg" alt="Bootstrap" style="width: 50px">
+<img src="logos/Wordpress.svg" alt="Wordpress" style="width: 50px">
+<img src="logos/Git.svg" alt="Git" style="width: 50px">
+<img src="logos/Python.svg" alt="Python" style="width: 50px">
+<img src="logos/adobe-photoshop.svg" alt="Adobe Photoshop" style="width: 50px">
+<img src="logos/adobe-illustrator.svg" alt="Adobe Illustrator" style="width: 50px">
+<img src="logos/adobe-audition.svg" alt="Adobe Audition" style="width: 50px">
+<img src="logos/adobe-premiere.svg" alt="Adobe Premiere.svg" style="width: 50px">
+<img src="logos/Figma.svg" alt="Figma" style="width: 33px">
 
-<img src="images/Photoshop.svg" alt="Photoshop" style="width: 50px"><img src="images/Illustrator.svg" alt="Illustrator" style="width: 50px"><img src="images/Audition.svg" alt="Audition.svg" style="width: 50px"><img src="images/Figma-Dark.svg" alt="Figma" style="width: 50px">
+### My full Tech Stack
+
+node
+express.js
+
+
 
 ### Vue ecosystem lover
 
-**Vue 3** - SPA (Single Page Aplication)
-**Nuxt 3** - SSR/SWA (Server Side Rendering/Static Web Aplications)
-**style** - CSS, SASS, tailwind, PrimeVue, bootstrap, vuetify, materialize, bulma,...
-**Pinia\*\***
-**vue-router**
-**vue-use**
-**Vitest**
-**VitePress** and **VuePress**
-**Quasar** and **Ionic/vue**
+<img src="logos/vue.js.svg" alt="vue.js" style="width: 30px">
+<img src="logos/nuxt.svg" alt="nuxt" style="width: 30px">
+<!-- <img src="logos/Vue-Router-----.svg" alt="Vue-Router-----" style="width: 30px"> -->
+<img src="logos/pinia.svg" alt="pinia" style="width: 30px">
+<img src="logos/vuex.svg" alt="vuex" style="width: 30px">
+<img src="logos/vueuse.svg" alt="vueuse" style="width: 30px">
+<img src="logos/vitest.svg" alt="vitest" style="width: 30px">
+<img src="logos/vitepress.svg" alt="vitepress" style="width: 30px">
+<img src="logos/vuepress.svg" alt="vuepress" style="width: 30px">
+<img src="logos/vitejs.svg" alt="vitejs" style="width: 30px">
+<img src="logos/quasar.svg" alt="quasar" style="width: 30px">
+<img src="logos/gridsome.svg" alt="gridsome" style="width: 30px">
+<img src="logos/Vue-DevTools.svg" alt="Vue-DevTools" style="width: 30px">
+<img src="logos/VueForm.svg" alt="VueForm" style="width: 30px">
+<img src="logos/rolldown.svg" alt="rolldown" style="width: 30px">
+<img src="logos/oxc.svg" alt="oxc" style="width: 30px">
+<!-- webs+schools+ -->
+<img src="logos/voidzero.svg" alt="voidzero" style="width: 30px">
+<!-- <img src="logos/VueJobs.svg" alt="VueJobs" style="width: 30px"> -->
+<img src="logos/VuejsForge.svg" alt="VuejsForge" style="width: 30px">
+<img src="logos/VuejsNation.svg" alt="VuejsNation" style="width: 30px">
+<img src="logos/NuxtNation.svg" alt="NuxtNation" style="width: 30px">
+<img src="logos/VueSchool.svg" alt="VueSchool" style="width: 30px">
+<img src="logos/LerarnVue.svg" alt="LerarnVue" style="width: 30px">
+<img src="logos/MasteringNuxt.svg" alt="MasteringNuxt" style="width: 30px">
+<img src="logos/MasteringPinia.svg" alt="MasteringPinia" style="width: 30px">
+<!-- <img src="logos/Weekly-Vue-----.svg" alt="Weekly-Vue-----" style="width: 30px"> -->
+<!-- UI libraries -->
+<img src="logos/PrimeVue.svg" alt="PrimeVue" style="width: 30px">
+<img src="logos/vuetifyjs.svg" alt="vuetifyjs" style="width: 30px">
+
+<!-- deprecated -->
+<img src="logos/volar.svg" alt="volar" style="width: 30px">
+<!-- <img src="logos/.svg" alt="" style="width: 30px"> -->
+
+**Vue 3** - SPA (Single Page Application)
+
+**Nuxt 3** - SSR (Server Side Rendering) - SSG (Static Site Generation) - ISG (Incremental Static [re]generation) - \<NuxtIsland/> - hydration - **Hybrid apps** = SPA + SSR + SSG + hydration.
+
+**Vite** - 
+
+**Gridsome** - SSG (Static Site Generation)
+
+**Vue-Router** - Routing
+
+**Pinia** - **VueX** - State Management
+
+**Vue-Use** - scripts
+
+**Vitest** - testing
+
+**VitePress**/**VuePress** - documentation
+
+**Quasar**/**Ionic**/**vue** + **capacitor** - android and IOS apps development
+
+**Tools** - Vue-DevTools, Vue-Telescope.
+
+**Style** - CSS, tailwind, SASS.
+
+**UI libraries** - PrimeVue, Vuetify, NuxtUI, BootstrapVue, DaisyUI, MaterialUI,...
+
+**voidzero** - vuejs project (vite plus...)
+
+**oxc Oxlint** (_waiting for_)
+[oxc.rs](https://oxc.rs), [github//oxc](https://github.com/oxc-project/oxc)
+
+**Rolldown** (_waiting for_)
+[rolldown.rs](https://rolldown.rs)
+
+**Vue-Vapor** (_waiting for_)
+
+**vue-petite**-----
+
+**webs / learning / community**:
+[VuejsNation](https://vuejsnation.com)
+[NuxtNation](https://nuxtnation.com)
+[VueSchool](https://vueschool.io)
+[Weekly-Vue](https://weekly-vue.news)
+[VuejsForge](https://vuejsforge.com)
+[MasteringNuxt](https://masteringnuxt.com)
+[MasteringPinia](https://masteringpinia.com)
+
+**VSCode extensions**: Vue - Official, Nuxtr, Vetur, Vite, Vitest, vue-volar (deprecated)...
 
 ---
 
-**JS libraries** - Axios, jQuery, Chart.JS, Confetti.JS, D3.js, moment.js, Anime.js, animate.js, bootstrap, fontawesome, Google-Charts, prism.js, sweetalert.js, reveal.js...
+**JS libraries** - axios, jQuery, chart.js, confetti.js, D3.js, moment.js, day.js, anime.js, animate.js, bootstrap, FontAwesome, Google-Charts, prism.js, sweetalert.js, reveal.js, aos.js (Animate On Scroll), html2canvas.js, leaflet.js, purecounter.js, swiper.js, lodash, underscore, faker,...
 
 JSON, XML, Markdown, WikiText, XPATH, RegEx.
 
-**CMS** - WordPress, Drupal, Joomla,...
+**CMS** - WordPress, Drupal, Joomla, wix...
 
-**Headless CMS** - Strapi, Ghost, Reaction, TinaCMS,...
+**Headless CMS** - Strapi, Ghost, Reaction, TinaCMS, DatoCMS,...
 
-**LMS** - E-learning tecnologies - moodle, chamilo, H5P, JClic, Educaplay, Quizizz, QUIZLET, Flashcards, [xAPI / SCROM].
+**LMS** - E-learning technologies - moodle, chamilo, H5P, JClic, Educaplay, Quizizz, QUIZLET, Flashcards, [xAPI / SCROM].
 
 **E-commerce CMS** - Shopify, WooCommerce,
 
-**Fediverse** - (_currently learning_) ActivityPub, Mastodon, PeerTube, Diaspora.
+**Fediverse** - (_currently learning_) ActivityPub, JSON-LD, AT Protocol, WebFinger - Mastodon, PeerTube, Diaspora - Megalodont
+
+**Standards** - Microforats, OpenGraph, GeoJSON, OpenAPI, SemVer, RSS, FEED, ATOM,...
 
 **wiki-systems** - MediaWiki, DocuWiki, GitHub-wiki,...
 
 **Testing** - Jest, supertest, vitest, Cypress, mocha, chai, + codecov, coveralls. _learning_: k6, istanbul.
 
-**Documentation** - VitePress, VuePress, Swagger, Bruno, ReadTheDocs.
+**Documentation** - VitePress, VuePress, Swagger, Bruno, ReadTheDocs, markdown, wikis.
 
 **Internationalization and Localization** - i18N, vue-i18n, nuxtjs/i18n, i18next + Translation Management Systems (TMS), Localization Management Platforms (LMP)
 
@@ -72,13 +165,14 @@ JSON, XML, Markdown, WikiText, XPATH, RegEx.
 
 **Wordpress** - Advanced Custom Fields (ACF), Custom Post Types and Taxonomies, Hooks, shortcodes, WooCommerce, themes, plugins..
 
-**Productivity and Time management** - Notion, Obsidian, Asana,... + Getting Things Done (GTD), 80/20 Rule (Pareto Analysis), pomodoro, time blocking, eat that frog, Eisenhower Matrix,...
+**Productivity and Time management** - Notion, Obsidian, Asana,... +
+**methodologies/techniques** Getting Things Done (GTD), 80/20 Rule (Pareto Analysis), pomodoro, time blocking, eat that frog, Eisenhower Matrix,...
 
-**Automation** - Make, Zapier, Integromat, python for automation (basic), bash (basic).
+**Automation** - Make, Zapier, Integromat, python for automation (basic), bash. (_learning_) - n8n.
 
-**Webscraping** - python -> (Scrapy, BeautifulSoup, Puppeteer, Selenium) + crawling, Spiders
+**Webscraping** - python -> (Scrapy, BeautifulSoup4, Puppeteer, Selenium) + Crawling, Spiders.
 
-**Amazon Web Services (AWS)** - S2, S3, Lambda, (basic)...
+**Amazon Web Services (AWS)** (_learning_) - S2, S3, Lambda, (basic)...
 
 **e-mail marketing** - mailchimp, + Campaigns, templates, CTA, metrics, CTR, leads, KPI, A/B testing,...
 
@@ -90,47 +184,76 @@ JSON, XML, Markdown, WikiText, XPATH, RegEx.
 
 **Databases** - MongoDB (NoSQL), MySQL, SQlite, PostgreSQL,...
 
+**Telemetry** (_learning_) - OpenTelemetry, Prometheus, Grafana. (_learning_) - M.E.L.T = Metrics, Event, Logs, Traces.
+
+**Logging** (_learning_) - winston, pino.
+
+**package managers** - npm, yarn, pnpm.
+
+**DevOps** - 
+
+## Python ecosystem (learning)
+
+- [x] Python
+- [x] pypi
+- [ ] pytest (_learning_)
+- [ ] qt (_learning_)
+- [ ] numpy (_learning_)
+- [ ] pandas (_learning_)
+
+## Data Analytics - Data Science (learning)
+
+- [x] excel
+- [x] tableau
+- [ ] power-bi (_learning_)
+- [ ] numpy (_learning_)
+- [ ] pandas (_learning_)
+- [ ] theory and technics (_learning_)
+- [ ] R (?)
+
 ## API's
 
-Google API's - Sheets, youtube, Calendar, Drive, Maps, Forms, Docs, Slides, Keep, Classroom, Gmail... API REST and GraphQL.
+Technologies - API REST, GraphQL, WebHooks - ***learning*** -> AsyncApi, .
 
-Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenProject,...
+Google API's - Sheets, youtube, Calendar, Drive, Maps, Forms, Docs, Slides, Keep, Classroom, Gmail...
+
+Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenProject, GitHub, facebook, twitter,...
 
 🟩💚 Mi flue parolas esperanton kaj ofte programas por ĝia komunumo!
 
-## Programing tecnologies
+## Programming technologies
 
 ### Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat) (basic only on wikipedia modules)
 
 ### Frameworks and Libraries
 
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat)
+![Express.js](https://img.shields.io/badge/Express%20js-000000?logo=express&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 ![Chart.js](https://img.shields.io/badge/Chart%20js-FF6384?logo=chartdotjs&logoColor=white&style=flat)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=flat)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green&style=flat)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green&style=flat) (basic)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat) (basic)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9&style=flat)
-![Express.js](https://img.shields.io/badge/Express%20js-000000?logo=express&logoColor=white&style=flat)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?logo=fontawesome&logoColor=white&style=flat)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=flat)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?logo=nextdotjs&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white&style=flat)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=OpenStreetMap&logoColor=white&style=flat)
+<!-- ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=OpenStreetMap&logoColor=white&style=flat) -->
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=fff&style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&logo=kubernetes&logoColor=white&style=flat)
@@ -139,6 +262,7 @@ Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenPr
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=flat) (+ Capasitor)
 
 ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white&style=flat)
+![Bruno](https://img.shields.io/badge/Postman-FF6C37?logo=Bruno&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=flat)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?logo=Insomnia&logoColor=white&style=flat)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=JSON%20web%20tokens&logoColor=white&style=flat)
@@ -147,8 +271,8 @@ Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenPr
 
 ### Exploring/Learning frontend
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)<!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat) -->
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?logo=vuedotjs&logoColor=4FC08D&style=flat) (only basic)
+![React.js](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
 
 ### CMS
 
@@ -156,10 +280,10 @@ Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenPr
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff&style=flat)
 ![shopify](https://img.shields.io/badge/shopify-8DB543?logo=Shopify&logoColor=white&style=flat)
 ![strapi](https://img.shields.io/badge/strapi-2F2E8B?logo=strapi&logoColor=white&style=flat)<!-- ghost -->
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white&style=flat) (exportin/not developing)
-![Joomla](https://img.shields.io/badge/Joomla-5091CD?logo=joomla&logoColor=fff&style=flat) (exportin/not developing)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white&style=flat) (exporting/not developing)
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?logo=joomla&logoColor=fff&style=flat) (exporting/not developing)
 
-### Tecnologies
+### Technologies
 
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?logo=xampp&logoColor=white&style=flat)
 ![BigBlueButton](https://img.shields.io/badge/BigBlueButton-283274?logo=bigbluebutton&logoColor=fff&style=flat)
@@ -187,7 +311,6 @@ Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenPr
 ![Google Street View](https://img.shields.io/badge/Google%20Street%20View-FEC111?logo=googlestreetview&logoColor=000&style=flat)
 ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?logo=googletagmanager&logoColor=fff&style=flat)
 ![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=flat)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat)
 ![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff&style=flat)
 ![Hootsuite](https://img.shields.io/badge/Hootsuite-143059?logo=hootsuite&logoColor=fff&style=flat)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=fff&style=flat)
@@ -219,7 +342,7 @@ Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenPr
 ![fastapi](https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white&style=flat)
 ![firebase](https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black&style=flat)
 
-### Lerning cloud / cloud computing
+### Learning cloud / cloud computing
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=flat)
@@ -263,7 +386,7 @@ _web design/graphic design_
 
 **Webs**
 ![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white&style=flat)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=flat)
+<!-- ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=flat) -->
 ![Flickr](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff&style=flat)
 ![Flipboard](https://img.shields.io/badge/Flipboard-E12828?logo=flipboard&logoColor=fff&style=flat)
 ![Freepik](https://img.shields.io/badge/Freepik-1273EB?logo=freepik&logoColor=fff&style=flat)
@@ -276,13 +399,15 @@ _web design/graphic design_
 **Formats**
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=fff&style=flat)
 ![JPEG](https://img.shields.io/badge/JPEG-8A8A8A?logo=jpeg&logoColor=fff&style=flat)
+-----mermaid-----
+-----scalidraw-----
 
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=flat)
-_lerning_
+_learning_
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
 
@@ -293,10 +418,10 @@ _lerning_
 ![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff&style=flat)
 ![Etsy](https://img.shields.io/badge/Etsy-F16521?logo=etsy&logoColor=fff&style=flat)
 
-### Automatitation
+### Automatization
 
+-----n8n-----
 <!-- make -->
-
 ![IFTTT](https://img.shields.io/badge/IFTTT-000?logo=ifttt&logoColor=fff&style=flat)
 ![Integromat](https://img.shields.io/badge/Integromat-2F8CBB?logo=integromat&logoColor=fff&style=flat)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=fff&style=flat)
