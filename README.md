@@ -26,19 +26,21 @@ I am wikipedia admin, translator (esperanto), designer (web/graphic/editorial), 
 
 ![MERN stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)
 
-<img src="logos/html5.svg" alt="HTML" style="width: 50px">
-<img src="logos/css.svg" alt="CSS" style="width: 50px">
-<img src="logos/javascript.svg" alt="JavaScript" style="width: 50px">
-<img src="logos/nodejs.svg" alt="nodejs" style="width: 50px">
-<img src="logos/bootstrap-wordmark.svg" alt="Bootstrap" style="width: 50px">
-<img src="logos/wordpress.svg" alt="Wordpress" style="width: 50px">
-<img src="logos/git.svg" alt="Git" style="width: 50px">
-<img src="logos/python.svg" alt="Python" style="width: 50px">
-<img src="logos/adobe-photoshop.svg" alt="Adobe Photoshop" style="width: 50px">
-<img src="logos/adobe-illustrator.svg" alt="Adobe Illustrator" style="width: 50px">
-<img src="logos/adobe-audition.svg" alt="Adobe Audition" style="width: 50px">
-<img src="logos/adobe-premiere.svg" alt="Adobe Premiere.svg" style="width: 50px">
-<img src="logos/Figma.svg" alt="Figma" style="width: 33px">
+<div>
+    <img src="logos/html5.svg" alt="HTML" style="width: 50px">
+    <img src="logos/css.svg" alt="CSS" style="width: 50px">
+    <img src="logos/javascript.svg" alt="JavaScript" style="width: 50px">
+    <img src="logos/nodejs.svg" alt="nodejs" style="width: 50px">
+    <img src="logos/bootstrap-wordmark.svg" alt="Bootstrap" style="width: 50px">
+    <img src="logos/wordpress.svg" alt="Wordpress" style="width: 50px">
+    <img src="logos/git.svg" alt="Git" style="width: 50px">
+    <img src="logos/python.svg" alt="Python" style="width: 50px">
+    <img src="logos/adobe-photoshop.svg" alt="Adobe Photoshop" style="width: 50px">
+    <img src="logos/adobe-illustrator.svg" alt="Adobe Illustrator" style="width: 50px">
+    <img src="logos/adobe-audition.svg" alt="Adobe Audition" style="width: 50px">
+    <img src="logos/adobe-premiere.svg" alt="Adobe Premiere.svg" style="width: 50px">
+    <img src="logos/Figma.svg" alt="Figma" style="width: 33px">
+</div>
 
 ### My full Tech Stack
 
@@ -125,7 +127,6 @@ I am wikipedia admin, translator (esperanto), designer (web/graphic/editorial), 
     <!-- UI libraries -->
     <img src="logos/PrimeVue.svg" alt="PrimeVue" style="width: 30px">
     <img src="logos/vuetifyjs.svg" alt="vuetifyjs" style="width: 30px">
-
     <!-- deprecated -->
     <img src="logos/volar.svg" alt="volar" style="width: 30px">
     <!-- <img src="logos/.svg" alt="" style="width: 30px"> -->
@@ -466,9 +467,8 @@ _learning_
 
 ### Automatization
 
-<!-- -----n8n----- -->
-![n8n](https://img.shields.io/badge/n8n-000?logo=n8n&logoColor=fff&style=flat)
 <!-- make -->
+![n8n](https://img.shields.io/badge/n8n-000?logo=n8n&logoColor=fff&style=flat)
 ![IFTTT](https://img.shields.io/badge/IFTTT-000?logo=ifttt&logoColor=fff&style=flat)
 ![Integromat](https://img.shields.io/badge/Integromat-2F8CBB?logo=integromat&logoColor=fff&style=flat)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=fff&style=flat)
@@ -490,7 +490,7 @@ _learning_
 ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-27273D?logo=freecodecamp&logoColor=white&style=flat)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=W3Schools&logoColor=white&style=flat)
 ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?logo=platzi&logoColor=white&style=flat)
-![edteam](https://img.shields.io/badge/EdTeam-98CA3F?logo=edteam&logoColor=white&style=flat)
+![edteam](https://custom-icon-badges.demolab.com/badge/EdTeam-98CA3F?logo=edteam&style=flat)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?logo=Udemy&logoColor=white&style=flat)
 ![Crehana](https://img.shields.io/badge/Crehana-4B22F4?logo=crehana&logoColor=fff&style=flat)
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?logo=Duolingo&logoColor=white&style=flat)
