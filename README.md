@@ -26,14 +26,14 @@ I am wikipedia admin, translator (esperanto), designer (web/graphic/editorial), 
 
 ![MERN stack](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light)
 
-<img src="logos/HTML5.svg" alt="HTML" style="width: 50px">
-<img src="logos/CSS.svg" alt="CSS" style="width: 50px">
-<img src="logos/JavaScript.svg" alt="JavaScript" style="width: 50px">
+<img src="logos/html5.svg" alt="HTML" style="width: 50px">
+<img src="logos/css.svg" alt="CSS" style="width: 50px">
+<img src="logos/javascript.svg" alt="JavaScript" style="width: 50px">
 <img src="logos/nodejs.svg" alt="nodejs" style="width: 50px">
-<img src="logos/Bootstrap.svg" alt="Bootstrap" style="width: 50px">
-<img src="logos/Wordpress.svg" alt="Wordpress" style="width: 50px">
-<img src="logos/Git.svg" alt="Git" style="width: 50px">
-<img src="logos/Python.svg" alt="Python" style="width: 50px">
+<img src="logos/bootstrap-wordmark.svg" alt="Bootstrap" style="width: 50px">
+<img src="logos/wordpress.svg" alt="Wordpress" style="width: 50px">
+<img src="logos/git.svg" alt="Git" style="width: 50px">
+<img src="logos/python.svg" alt="Python" style="width: 50px">
 <img src="logos/adobe-photoshop.svg" alt="Adobe Photoshop" style="width: 50px">
 <img src="logos/adobe-illustrator.svg" alt="Adobe Illustrator" style="width: 50px">
 <img src="logos/adobe-audition.svg" alt="Adobe Audition" style="width: 50px">
@@ -42,53 +42,100 @@ I am wikipedia admin, translator (esperanto), designer (web/graphic/editorial), 
 
 ### My full Tech Stack
 
-node
-express.js
-
-
+<div>
+    <img src="logos/nodejs.svg" alt="nodejs" style="width: 30px">
+    <img src="logos/express.js.svg" alt="express.js" style="width: 30px">
+    <img src="logos/mongoose.svg" alt="mongoose" style="width: 30px">
+    <img src="logos/mongodb.svg" alt="mongodb" style="width: 30px">
+    <img src="logos/vue.js.svg" alt="vue.js" style="width: 30px">
+    <img src="logos/nuxt.svg" alt="nuxt" style="width: 30px">
+    <img src="logos/TypeScript" alt="TypeScript" style="width: 30px">
+    <img src="logos/pinia" alt="pinia" style="width: 30px">
+    <img src="logos/vitejs" alt="vitejs" style="width: 30px">
+    <img src="logos/vitepress" alt="vitepress" style="width: 30px">
+    <img src="logos/quasar" alt="quasar" style="width: 30px">
+    <img src="logos/redis" alt="redis" style="width: 30px">
+    <img src="logos/uptime-kuma" alt="uptime-kuma" style="width: 30px">
+    <img src="logos/matomo" alt="matomo" style="width: 30px">
+    <img src="logos/tailwindcss" alt="tailwindcss" style="width: 30px">
+    <img src="logos/n8n" alt="n8n" style="width: 30px">
+    <img src="logos/git" alt="git" style="width: 30px">
+    <img src="logos/github" alt="github" style="width: 30px">
+    <img src="logos/docker" alt="docker" style="width: 30px">
+    <img src="logos/bash" alt="bash" style="width: 30px">
+    <img src="logos/jest" alt="jest" style="width: 30px">
+    <img src="logos/cypress" alt="cypress" style="width: 30px">
+    <img src="logos/vitest" alt="vitest" style="width: 30px">
+    <img src="logos/codecov" alt="codecov" style="width: 30px">
+    <img src="logos/codeclimate" alt="codeclimate" style="width: 30px">
+    <img src="logos/coveralls" alt="coveralls" style="width: 30px">
+    <img src="logos/mermaid" alt="mermaid" style="width: 30px">
+    <img src="logos/excalidraw" alt="excalidraw" style="width: 30px">
+    <img src="logos/figma" alt="figma" style="width: 30px">
+    <img src="logos/axios" alt="axios" style="width: 30px">
+    <img src="logos/graphql" alt="graphql" style="width: 30px">
+    <img src="logos/apollo" alt="apollo" style="width: 30px">
+    <img src="logos/socketio" alt="socketio" style="width: 30px">
+    <img src="logos/bruno" alt="bruno" style="width: 30px">
+    <img src="logos/openapi" alt="openapi" style="width: 30px">
+    <img src="logos/swagger" alt="swagger" style="width: 30px">
+    <img src="logos/async-api" alt="async-api" style="width: 30px">
+    <img src="logos/webhooks" alt="webhooks" style="width: 30px">
+    <img src="logos/electron" alt="electron" style="width: 30px">
+    <img src="logos/opentelemetry" alt="opentelemetry" style="width: 30px">
+    <img src="logos/grafana" alt="grafana" style="width: 30px">
+    <img src="logos/prometheus" alt="prometheus" style="width: 30px">
+    <img src="logos/passport" alt="passport" style="width: 30px">
+    <img src="logos/jwt" alt="jwt" style="width: 30px">
+    <img src="logos/oauth" alt="oauth" style="width: 30px">
+    <img src="logos/chartjs" alt="chartjs" style="width: 30px">
+    <img src="logos/leaflet" alt="leaflet" style="width: 30px">
+</div>
 
 ### Vue ecosystem lover
 
-<img src="logos/vue.js.svg" alt="vue.js" style="width: 30px">
-<img src="logos/nuxt.svg" alt="nuxt" style="width: 30px">
-<!-- <img src="logos/Vue-Router-----.svg" alt="Vue-Router-----" style="width: 30px"> -->
-<img src="logos/pinia.svg" alt="pinia" style="width: 30px">
-<img src="logos/vuex.svg" alt="vuex" style="width: 30px">
-<img src="logos/vueuse.svg" alt="vueuse" style="width: 30px">
-<img src="logos/vitest.svg" alt="vitest" style="width: 30px">
-<img src="logos/vitepress.svg" alt="vitepress" style="width: 30px">
-<img src="logos/vuepress.svg" alt="vuepress" style="width: 30px">
-<img src="logos/vitejs.svg" alt="vitejs" style="width: 30px">
-<img src="logos/quasar.svg" alt="quasar" style="width: 30px">
-<img src="logos/gridsome.svg" alt="gridsome" style="width: 30px">
-<img src="logos/Vue-DevTools.svg" alt="Vue-DevTools" style="width: 30px">
-<img src="logos/VueForm.svg" alt="VueForm" style="width: 30px">
-<img src="logos/rolldown.svg" alt="rolldown" style="width: 30px">
-<img src="logos/oxc.svg" alt="oxc" style="width: 30px">
-<!-- webs+schools+ -->
-<img src="logos/voidzero.svg" alt="voidzero" style="width: 30px">
-<!-- <img src="logos/VueJobs.svg" alt="VueJobs" style="width: 30px"> -->
-<img src="logos/VuejsForge.svg" alt="VuejsForge" style="width: 30px">
-<img src="logos/VuejsNation.svg" alt="VuejsNation" style="width: 30px">
-<img src="logos/NuxtNation.svg" alt="NuxtNation" style="width: 30px">
-<img src="logos/VueSchool.svg" alt="VueSchool" style="width: 30px">
-<img src="logos/LerarnVue.svg" alt="LerarnVue" style="width: 30px">
-<img src="logos/MasteringNuxt.svg" alt="MasteringNuxt" style="width: 30px">
-<img src="logos/MasteringPinia.svg" alt="MasteringPinia" style="width: 30px">
-<!-- <img src="logos/Weekly-Vue-----.svg" alt="Weekly-Vue-----" style="width: 30px"> -->
-<!-- UI libraries -->
-<img src="logos/PrimeVue.svg" alt="PrimeVue" style="width: 30px">
-<img src="logos/vuetifyjs.svg" alt="vuetifyjs" style="width: 30px">
+<div>
+    <img src="logos/vue.js.svg" alt="vue.js" style="width: 30px">
+    <img src="logos/nuxt.svg" alt="nuxt" style="width: 30px">
+    <!-- <img src="logos/Vue-Router-----.svg" alt="Vue-Router-----" style="width: 30px"> -->
+    <img src="logos/pinia.svg" alt="pinia" style="width: 30px">
+    <img src="logos/vuex.svg" alt="vuex" style="width: 30px">
+    <img src="logos/vueuse.svg" alt="vueuse" style="width: 30px">
+    <img src="logos/vitest.svg" alt="vitest" style="width: 30px">
+    <img src="logos/vitepress.svg" alt="vitepress" style="width: 30px">
+    <img src="logos/vuepress.svg" alt="vuepress" style="width: 30px">
+    <img src="logos/vitejs.svg" alt="vitejs" style="width: 30px">
+    <img src="logos/quasar.svg" alt="quasar" style="width: 30px">
+    <img src="logos/gridsome.svg" alt="gridsome" style="width: 30px">
+    <img src="logos/Vue-DevTools.svg" alt="Vue-DevTools" style="width: 30px">
+    <img src="logos/VueForm.svg" alt="VueForm" style="width: 30px">
+    <img src="logos/rolldown.svg" alt="rolldown" style="width: 30px">
+    <img src="logos/oxc.svg" alt="oxc" style="width: 30px">
+    <!-- webs+schools+ -->
+    <img src="logos/voidzero.svg" alt="voidzero" style="width: 30px">
+    <!-- <img src="logos/VueJobs.svg" alt="VueJobs" style="width: 30px"> -->
+    <img src="logos/VuejsForge.svg" alt="VuejsForge" style="width: 30px">
+    <img src="logos/VuejsNation.svg" alt="VuejsNation" style="width: 30px">
+    <img src="logos/NuxtNation.svg" alt="NuxtNation" style="width: 30px">
+    <img src="logos/VueSchool.svg" alt="VueSchool" style="width: 30px">
+    <img src="logos/LerarnVue.svg" alt="LerarnVue" style="width: 30px">
+    <img src="logos/MasteringNuxt.svg" alt="MasteringNuxt" style="width: 30px">
+    <img src="logos/MasteringPinia.svg" alt="MasteringPinia" style="width: 30px">
+    <!-- <img src="logos/Weekly-Vue-----.svg" alt="Weekly-Vue-----" style="width: 30px"> -->
+    <!-- UI libraries -->
+    <img src="logos/PrimeVue.svg" alt="PrimeVue" style="width: 30px">
+    <img src="logos/vuetifyjs.svg" alt="vuetifyjs" style="width: 30px">
 
-<!-- deprecated -->
-<img src="logos/volar.svg" alt="volar" style="width: 30px">
-<!-- <img src="logos/.svg" alt="" style="width: 30px"> -->
+    <!-- deprecated -->
+    <img src="logos/volar.svg" alt="volar" style="width: 30px">
+    <!-- <img src="logos/.svg" alt="" style="width: 30px"> -->
+</div>
 
 **Vue 3** - SPA (Single Page Application)
 
 **Nuxt 3** - SSR (Server Side Rendering) - SSG (Static Site Generation) - ISG (Incremental Static [re]generation) - \<NuxtIsland/> - hydration - **Hybrid apps** = SPA + SSR + SSG + hydration.
 
-**Vite** - 
+**Vite** -
 
 **Gridsome** - SSG (Static Site Generation)
 
@@ -112,26 +159,25 @@ express.js
 
 **voidzero** - vuejs project (vite plus...)
 
-**oxc Oxlint** (_waiting for_)
-[oxc.rs](https://oxc.rs), [github//oxc](https://github.com/oxc-project/oxc)
+**oxc Oxlint** (_waiting for_) - [oxc.rs](https://oxc.rs), [github//oxc](https://github.com/oxc-project/oxc)
 
-**Rolldown** (_waiting for_)
-[rolldown.rs](https://rolldown.rs)
+**Rolldown** (_waiting for_) - [rolldown.rs](https://rolldown.rs)
 
-**Vue-Vapor** (_waiting for_)
+**Vue-Vapor** (_waiting for_) -
 
-**vue-petite**-----
-
-**webs / learning / community**:
-[VuejsNation](https://vuejsnation.com)
-[NuxtNation](https://nuxtnation.com)
-[VueSchool](https://vueschool.io)
-[Weekly-Vue](https://weekly-vue.news)
-[VuejsForge](https://vuejsforge.com)
-[MasteringNuxt](https://masteringnuxt.com)
-[MasteringPinia](https://masteringpinia.com)
+**vue-petite** -
 
 **VSCode extensions**: Vue - Official, Nuxtr, Vetur, Vite, Vitest, vue-volar (deprecated)...
+
+**webs / learning / community**:
+
+- [VuejsNation](https://vuejsnation.com)
+- [NuxtNation](https://nuxtnation.com)
+- [VueSchool](https://vueschool.io)
+- [Weekly-Vue](https://weekly-vue.news)
+- [VuejsForge](https://vuejsforge.com)
+- [MasteringNuxt](https://masteringnuxt.com)
+- [MasteringPinia](https://masteringpinia.com)
 
 ---
 
@@ -190,7 +236,7 @@ JSON, XML, Markdown, WikiText, XPATH, RegEx.
 
 **package managers** - npm, yarn, pnpm.
 
-**DevOps** - 
+**DevOps** -
 
 ## Python ecosystem (learning)
 
@@ -213,7 +259,7 @@ JSON, XML, Markdown, WikiText, XPATH, RegEx.
 
 ## API's
 
-Technologies - API REST, GraphQL, WebHooks - ***learning*** -> AsyncApi, .
+Technologies - API REST, GraphQL, WebHooks - **learning** -> AsyncApi.
 
 Google API's - Sheets, youtube, Calendar, Drive, Maps, Forms, Docs, Slides, Keep, Classroom, Gmail...
 
@@ -237,18 +283,19 @@ Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenPr
 
 ### Frameworks and Libraries
 
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?logo=express&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green&style=flat) (basic)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat) (basic)
+![Next.js](https://img.shields.io/badge/next%20js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=flat) (+ Capasitor)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 ![Chart.js](https://img.shields.io/badge/Chart%20js-FF6384?logo=chartdotjs&logoColor=white&style=flat)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=flat)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green&style=flat) (basic)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat) (basic)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9&style=flat)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?logo=fontawesome&logoColor=white&style=flat)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=flat)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/next%20js-000000?logo=nextdotjs&logoColor=white&style=flat)
 <!-- ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=OpenStreetMap&logoColor=white&style=flat) -->
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=fff&style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white&style=flat)
@@ -258,8 +305,6 @@ Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenPr
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&logo=kubernetes&logoColor=white&style=flat)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white&style=flat)
-
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=flat) (+ Capasitor)
 
 ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white&style=flat)
 ![Bruno](https://img.shields.io/badge/Postman-FF6C37?logo=Bruno&logoColor=white&style=flat)
@@ -271,7 +316,7 @@ Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenPr
 
 ### Exploring/Learning frontend
 
-![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?logo=vuedotjs&logoColor=4FC08D&style=flat) (only basic)
+![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?logo=vuedotjs&logoColor=4FC08D&style=flat)
 ![React.js](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
 
 ### CMS
@@ -279,7 +324,8 @@ Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenPr
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff&style=flat)
 ![shopify](https://img.shields.io/badge/shopify-8DB543?logo=Shopify&logoColor=white&style=flat)
-![strapi](https://img.shields.io/badge/strapi-2F2E8B?logo=strapi&logoColor=white&style=flat)<!-- ghost -->
+![strapi](https://img.shields.io/badge/strapi-2F2E8B?logo=strapi&logoColor=white&style=flat)
+<!-- ghost -->
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white&style=flat) (exporting/not developing)
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?logo=joomla&logoColor=fff&style=flat) (exporting/not developing)
 
@@ -331,7 +377,8 @@ Telegram, wikipedia/wikimedia/XTools, wikidata, notion, lichess, Crowdin, OpenPr
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=flat)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=fff&style=flat)
 ![Read the Docs](https://img.shields.io/badge/Read%20the%20Docs-8CA1AF?logo=readthedocs&logoColor=fff&style=flat)
-![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff&style=flat)<!-- swagger -->
+![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff&style=flat)
+<!-- swagger -->
 ![W3C](https://img.shields.io/badge/W3C-005A9C?logo=w3c&logoColor=fff&style=flat)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=fff&style=flat)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=fff&style=flat)
@@ -399,8 +446,8 @@ _web design/graphic design_
 **Formats**
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=fff&style=flat)
 ![JPEG](https://img.shields.io/badge/JPEG-8A8A8A?logo=jpeg&logoColor=fff&style=flat)
------mermaid-----
------scalidraw-----
+<!-- -----mermaid----- -->
+<!-- -----scalidraw----- -->
 
 ### Databases
 
@@ -409,7 +456,6 @@ _web design/graphic design_
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=flat)
 _learning_
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
 
 ### Freelancer/Work/Jobs
 
@@ -420,7 +466,8 @@ _learning_
 
 ### Automatization
 
------n8n-----
+<!-- -----n8n----- -->
+![n8n](https://img.shields.io/badge/n8n-000?logo=n8n&logoColor=fff&style=flat)
 <!-- make -->
 ![IFTTT](https://img.shields.io/badge/IFTTT-000?logo=ifttt&logoColor=fff&style=flat)
 ![Integromat](https://img.shields.io/badge/Integromat-2F8CBB?logo=integromat&logoColor=fff&style=flat)
@@ -440,9 +487,10 @@ _learning_
 
 ### Education
 
-![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?logo=freecodecamp&logoColor=white&style=flat)
+![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-27273D?logo=freecodecamp&logoColor=white&style=flat)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=W3Schools&logoColor=white&style=flat)
 ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?logo=platzi&logoColor=white&style=flat)
+![edteam](https://img.shields.io/badge/EdTeam-98CA3F?logo=edteam&logoColor=white&style=flat)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?logo=Udemy&logoColor=white&style=flat)
 ![Crehana](https://img.shields.io/badge/Crehana-4B22F4?logo=crehana&logoColor=fff&style=flat)
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?logo=Duolingo&logoColor=white&style=flat)
@@ -505,7 +553,9 @@ _learning_
 ### Cripto/Blockchain
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=flat)
-
+<!-- **exploring** - ether.js, web3.js -->
+![ether.js](https://img.shields.io/badge/ether.js-F7931A?logo=ether&logoColor=fff&style=flat)
+![web3.js](https://img.shields.io/badge/web3.js-F7931A?logo=web3&logoColor=fff&style=flat)
 <!-- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=flat) -->
 
 ### Funding
@@ -515,11 +565,11 @@ _learning_
 ![Ko Fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white&style=flat)
 ![GoFundMe](https://img.shields.io/badge/GoFundMe-00B964?logo=gofundme&logoColor=fff&style=flat)
 ![GitHub sponsor](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#white&style=flat)
-![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black&style=flat)
+<!-- ![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black&style=flat) -->
 ![OpenCollective](https://img.shields.io/badge/OpenCollective-1F87FF?logo=OpenCollective&logoColor=white&style=flat)
 ![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white&style=flat)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=flat)
-![Payoneer](https://img.shields.io/badge/Payoneer-D73F03?logo=payoneer&logoColor=white&style=flat)
+<!-- ![Payoneer](https://img.shields.io/badge/Payoneer-D73F03?logo=payoneer&logoColor=white&style=flat) -->
 
 ### Contact
 
@@ -529,26 +579,25 @@ _learning_
 
 ### Social
 
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat)
-![YouTube](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&logo=Pinterest&logoColor=white&style=flat)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)
-![SlideShare](https://img.shields.io/badge/SlideShare-008ED2?logo=slideshare&logoColor=fff&style=flat)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat)
-![SoundCloud](https://img.shields.io/badge/SoundCloud-F30?logo=soundcloud&logoColor=fff&style=flat)
-![linktree](https://img.shields.io/badge/linktree-39E09B?logo=linktree&logoColor=white&style=flat)
-![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=Mastodon&logoColor=white&style=flat)
-![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://facebook.com/JaviRamosLab)
+[![YouTube](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://youtube.com/@JaviRamosLab)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://telegram.com/JaviRamosLab)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/JaviRamosLab)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&logo=Pinterest&logoColor=white&style=flat)](https://pinterest.com/JaviRamosLab)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/JaviRamosLab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedIn.com/JaviRamosLab)
+[![SlideShare](https://img.shields.io/badge/SlideShare-008ED2?logo=slideshare&logoColor=fff&style=flat)](https://slideshare.com/JaviRamosLab)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat)](https://reddit.com/JaviRamosLab)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-F30?logo=soundcloud&logoColor=fff&style=flat)](https://soundcloud.com/JaviRamosLab)
+[![linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white&style=flat)](https://linktree.com/JaviRamosLab)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=Mastodon&logoColor=white&style=flat)](https://mastodon.com/JaviRamosLab)
 
 ![Behance](https://img.shields.io/badge/-Behance-blue?logo=behance&logoColor=white&style=flat)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=flat)
+<!-- ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=flat) -->
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat)
-![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white&style=flat)<!-- ![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white&style=flat) -->
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat)](https://GitHub.com/JaviRamosLab)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white&style=flat)](https://Codepen.com/JaviRamosLab)
+<!-- ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat) -->
 
 ---
 
